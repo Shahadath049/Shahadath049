@@ -1,0 +1,78 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 50px;
+    padding: 30px;
+}
+
+.half-width img {
+    width: 50%;
+
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.Name {
+    color: rgb(255, 153, 0);
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.link-button {
+    background-image: linear-gradient(orange, red);
+    border-radius: 40px;
+    text-decoration: none;
+    padding: 15px 40px;
+    color: antiquewhite;
+    font-weight: 900;
+}
+
+.top-banner {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+
+}
+
+.mid-banner {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+
+.recipies {
+    text-align: center;
+    color: gray;
+}
+
+.shadow-box {
+    box-shadow: 10px 5px 5px 10px rgba(0, 0, 0, 0.158);
+    background-color: aqua;
+    border-radius: 20px;
+    width:40%;
+
+}
+.shadow-box img{
+    width:658px;
+    height:400px;
+}
+.shadow-box p{
+    font-size:20px;
+}
+}
+h2{
+    font-size:35px;
+}
+
+#chocolate {
+    border-radius: 22px;
+    margin-left:30px;
+   
+}
